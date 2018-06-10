@@ -1,0 +1,10 @@
+configuration: Release
+
+#restore nuGet package before running 
+before_build:
+  -nuget restore
+ 
+build:
+ verbosity: minimal
+ project: name-sorter.sln
+ 
