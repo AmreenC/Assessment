@@ -1,4 +1,3 @@
-configuration: Release
 
 steps:
 - task: dotNetCoreCLI@1
