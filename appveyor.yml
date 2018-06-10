@@ -1,4 +1,1 @@
 configuration: Release
-
-build:
- verbosity: minimal
