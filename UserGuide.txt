@@ -3,8 +3,10 @@ It prints all the sorted names to console and writes the sorted list of names to
 Also UnitTest are provided.
 
 To Run the Application at Command Line, follow below given command:
-1. dotnet run <ArgPathOfFileToBeSorted>
+1.Go to name-sorter directory and then 
+  dotnet run <ArgPathOfFileToBeSorted>
 e.g. dotnet run ./unsorted-names-list.txt 
 OR
-2. Go to name-sorter directory and run exe file
-  Program ./unsorted-names-list.txt
+2.Go to name-sorter directory and then run exe file
+  Program <ArgPathOfFileToBeSorted>
+e.g Program ./unsorted-names-list.txt
