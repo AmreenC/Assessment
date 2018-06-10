@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "name-sorter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Amyn\\Sorting\\name-sorter\\unsorted-names-list.txt"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\name-sorter.UnitTest.deps.json
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\name-sorter.UnitTest.runtimeconfig.json
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\name-sorter.UnitTest.runtimeconfig.dev.json
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\name-sorter.UnitTest.dll
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\name-sorter.UnitTest.pdb
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\name-sorter.dll
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\bin\Debug\netcoreapp2.1\name-sorter.pdb
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\obj\Debug\netcoreapp2.1\name-sorter.UnitTest.csprojAssemblyReference.cache
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\obj\Debug\netcoreapp2.1\name-sorter.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\obj\Debug\netcoreapp2.1\name-sorter.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\obj\Debug\netcoreapp2.1\name-sorter.UnitTest.AssemblyInfo.cs
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\obj\Debug\netcoreapp2.1\name-sorter.UnitTest.csproj.CopyComplete
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\obj\Debug\netcoreapp2.1\name-sorter.UnitTest.dll
+C:\Users\Amyn\Sorting\name-sorter.UnitTest\obj\Debug\netcoreapp2.1\name-sorter.UnitTest.pdb

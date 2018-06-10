@@ -1,0 +1,8 @@
+This application is used to Sort the Given list of names, order set by first by Surname/LastName. 
+It prints all the sorted names to console and writes the sorted list of names to a file called sorted-names-list.txt.
+Also UnitTest are provided.
+
+To Run the Application at Command Line, follow below given command:
+  dotnet run <ArgPathOfFileToBeSorted>
+e.g. dotnet run ./unsorted-names-list.txt 
+
