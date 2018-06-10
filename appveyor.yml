@@ -1,5 +1,3 @@
-queue: 
-  name: Host
 
 steps:
 - task: dotNetCoreCLI@1
