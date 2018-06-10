@@ -2,5 +2,5 @@ configuration: Release
 
 build:
  verbosity: minimal
- project: name-sorter.sln
+ project: Sorting/name-sorter/name-sorter.sln
  
